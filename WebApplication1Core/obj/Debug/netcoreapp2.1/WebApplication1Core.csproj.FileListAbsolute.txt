@@ -1,0 +1,14 @@
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\bin\Debug\netcoreapp2.1\WebApplication1Core.deps.json
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\bin\Debug\netcoreapp2.1\WebApplication1Core.runtimeconfig.json
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\bin\Debug\netcoreapp2.1\WebApplication1Core.runtimeconfig.dev.json
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\bin\Debug\netcoreapp2.1\WebApplication1Core.dll
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\bin\Debug\netcoreapp2.1\WebApplication1Core.pdb
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.csproj.CoreCompileInputs.cache
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.RazorAssemblyInfo.cache
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.RazorAssemblyInfo.cs
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.AssemblyInfoInputs.cache
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.AssemblyInfo.cs
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.RazorTargetAssemblyInfo.cache
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.dll
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.pdb
+C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\obj\Debug\netcoreapp2.1\WebApplication1Core.csprojAssemblyReference.cache
