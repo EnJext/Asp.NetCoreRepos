@@ -23,6 +23,7 @@ namespace WebApplication1Core
             {
                 options.IdleTimeout = TimeSpan.FromSeconds(3600);
             });
+            int x = 9;
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

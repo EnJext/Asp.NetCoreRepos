@@ -1,0 +1,109 @@
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : name <--> Value : Tom
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+
+Accessing expired session, Key:d9714c66-ac63-295f-2248-9ed6ff637a65
+The file /index.html was not modified
+Session started; Key:d9714c66-ac63-295f-2248-9ed6ff637a65, Id:d54f7194-7b5a-6a3d-f852-9515140aabbe
+Request finished in 795.8806ms 304 text/html
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : name <--> Value : Tom
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+
+The file /index.html was not modified
+Request starting HTTP/1.1 GET http://localhost:44346/  
+Request starting HTTP/1.1 DEBUG http://localhost:49946/  0
+Request finished in 156.8197ms 200 
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : name <--> Value : Tom
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+
+Accessing expired session, Key:d9714c66-ac63-295f-2248-9ed6ff637a65
+Sending file. Request path: '/index.html'. Physical path: 'C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\wwwroot\index.html'
+Session started; Key:d9714c66-ac63-295f-2248-9ed6ff637a65, Id:5ddce244-f393-5c99-2cd9-50e75bc25df3
+Request finished in 1873.3576ms 200 text/html
+Request starting HTTP/1.1 GET http://localhost:44346/favicon.ico  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : name <--> Value : Tom
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+
+Request finished in 38.6146ms 404 
+Request starting HTTP/1.1 DEBUG http://localhost:49946/  0
+Request finished in 151.4321ms 200 
+Request starting HTTP/1.1 GET http://localhost:44346/  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : name <--> Value : Tom
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+
+Accessing expired session, Key:d9714c66-ac63-295f-2248-9ed6ff637a65
+The file /index.html was not modified
+Session started; Key:d9714c66-ac63-295f-2248-9ed6ff637a65, Id:cf3d0bfa-c2bf-ffde-0699-ce1d3189463a
+Request finished in 649.0374ms 304 text/html
+Request starting HTTP/1.1 DEBUG http://localhost:49946/  0
+Request starting HTTP/1.1 GET http://localhost:44346/  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : name <--> Value : Tom
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+
+Request finished in 103.9212ms 200 
+Accessing expired session, Key:d9714c66-ac63-295f-2248-9ed6ff637a65
+The file /index.html was not modified
+Session started; Key:d9714c66-ac63-295f-2248-9ed6ff637a65, Id:d6d893c6-9a47-0577-bccc-4862957308ec
+Request finished in 903.4361ms 304 text/html
+Request starting HTTP/1.1 GET http://localhost:44346/  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+ key : name <--> Value : Steve
+
+The file /index.html was not modified
+Request finished in 43.2713ms 304 text/html
+Request starting HTTP/1.1 DEBUG http://localhost:49946/  0
+Request finished in 120.8232ms 200 
+Request starting HTTP/1.1 GET http://localhost:44346/  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+ key : name <--> Value : Steve
+
+Accessing expired session, Key:d9714c66-ac63-295f-2248-9ed6ff637a65
+The file /index.html was not modified
+Session started; Key:d9714c66-ac63-295f-2248-9ed6ff637a65, Id:fa426a55-f695-cef9-8aa0-6f7432912f74
+Request finished in 1997.6578ms 304 text/html
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+ key : name <--> Value : Steve
+
+Accessing expired session, Key:d9714c66-ac63-295f-2248-9ed6ff637a65
+Sending file. Request path: '/index.html'. Physical path: 'C:\Users\Valik\source\repos\WebApplication1Core\WebApplication1Core\wwwroot\index.html'
+Session started; Key:d9714c66-ac63-295f-2248-9ed6ff637a65, Id:64a4a80c-96ab-76bd-c43c-86d526b5aa32
+Request finished in 1981.4231ms 200 text/html
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+ key : name <--> Value : Steve
+
+Accessing expired session, Key:d9714c66-ac63-295f-2248-9ed6ff637a65
+The file /index.html was not modified
+Session started; Key:d9714c66-ac63-295f-2248-9ed6ff637a65, Id:3047ed77-aa4a-570d-067c-d7b7bb831e1d
+Request finished in 2498.7896ms 304 text/html
+Request starting HTTP/1.1 GET https://localhost:5001/Some  
+Cookies : 
+ key : .AspNet.Consent <--> Value : yes
+ key : .AspNetCore.Session <--> Value : CfDJ8Ipmk1DQjFVIqzFPAwKIAgIGeV4FgJkRDvusdmg6zahFvZjo7iOvk5GYgf+hTVg8nZthyZksI13JNwqLswXwCy8PO5WPqIUEGPjFRdQ0tw22mfoVz0cFXQtCoz8v2bOAxqf25gBDSd0N30Z9QpKbAn+Q1TSTDVEVt4jofo2v4Lmv
+ key : name <--> Value : Steve
+
+Accessing expired session, Key:d9714c66-ac63-295f-2248-9ed6ff637a65
+Session started; Key:d9714c66-ac63-295f-2248-9ed6ff637a65, Id:31e58a2a-4e59-d986-8b31-986845effcb9
+Request finished in 901.2766ms 404 text/plain
